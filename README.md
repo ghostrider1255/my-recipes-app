@@ -1,3 +1,6 @@
+Note: This project uses 'Food2Fork' api's to pull the data dynamically at run time. Please register to 'Food2Fork' api and use the private key and create an '.env.developement' file in root folder and add value as "REACT_APP_API_KEY=<api_private_key>'
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
